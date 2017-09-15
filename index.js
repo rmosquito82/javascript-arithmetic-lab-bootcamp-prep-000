@@ -29,3 +29,8 @@ function makeInt(n){
   var newInt = parseInt(n, 10)
   return newInt
 }
+
+function preserveDecimal(n){
+  var newDec = parseFloat(n)
+  return newDec
+}
