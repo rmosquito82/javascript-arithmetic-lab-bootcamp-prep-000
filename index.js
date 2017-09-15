@@ -19,5 +19,3 @@ function inc(n){
   var n = n++
   return n
 }
-
-
